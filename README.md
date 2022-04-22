@@ -1,1 +1,2 @@
 # vizsgaJavaGyakIgnorNelkul
+Bogdán Gábor
